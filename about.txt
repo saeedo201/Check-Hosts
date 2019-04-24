@@ -1,0 +1,45 @@
+STEP 1:
+
+chmod +x *
+
+bash host.sh
+
+STEP 2:
+
+Option 1: http / ssl host search engine
+
+host: Here is where the link goes, url of the website to 
+extract the domains
+
+example
+
+host: bitel.pe
+
+Recommendation: preferable to put without the http, https, 
+www
+
+Option 2: Show status
+
+Showing host status: Here you will see all the status of the 
+hosts that are in option 3 or step 3 read
+
+Recommendation: read step 3
+
+STEP 3:
+
+Option 3: Save hosts
+
+1:Paste the hosts to get the status
+
+2:Remember CTRL + C to exit
+
+3:HOST:
+
+1:Copy the url that you got from the option in step 2 or 
+your host list from your company
+
+2:ctrl + c is to save the pasted hosts and then restart the 
+real-host.sh script and give it in option 2 show status read 
+step 2
+
+3:host: here below the found host or url are pasted
